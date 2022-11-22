@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<atom>
-    <channel>
-        <title>Plants</title>
-        <description>The newest plant articles and pictures</description>
-        <link>https://xabi-5.github.io/plantProject/</link>
-        <pubDate>Tue, 22 Nov 2022 11:15:00 GMT</pubDate>
-        <managingEditor>A22JavierLM@iessanclemente.net</managingEditor>
-        <item>
-            <title>Ulex</title>
-            <link>https://xabi-5.github.io/plantProject/gorse.html</link>
-            <pubDate>Sat, 12 Nov 2022 11:15:00 GMT</pubDate>
-            <description>A great gallery with the best gorse pictures</description>
-        </item>
-
-    </channel>
-
-</atom>
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>PlantProject</title>
+ <updated>2022-11-22T012:00:00Z</updated>
+ 
+ <entry>
+ <author>
+ <name>A22JavierLM</name>
+ </author>
+ <title>The Gorse</title>
+ <updated>2022-11-22T12:00:00Z</updated>
+ <published>2022-11-22T12:00:00Z</published>
+ 
+ <summary>The freshest pictures of the renown spiky bush</summary>
+ </entry>
+ 
+</feed>
