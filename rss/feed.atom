@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom>
+    <channel>
+        <title>Plants</title>
+        <description>The newest plant articles and pictures</description>
+        <link>https://xabi-5.github.io/rssprojectide/eclipse.html</link>
+        <pubDate>Tue, 22 Nov 2022 11:15:00 GMT</pubDate>
+        <managingEditor>A22JavierLM@iessanclemente.net</managingEditor>
+        <item>
+            <title>Ulex</title>
+            <link>https://xabi-5.github.io/rssprojectide/eclipse.html</link>
+            <pubDate>Sat, 12 Nov 2022 11:15:00 GMT</pubDate>
+            <description>A great gallery with the best gorse pictures</description>
+        </item>
+
+    </channel>
+
+</atom>
