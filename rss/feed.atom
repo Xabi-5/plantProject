@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>PlantProject</title>
- <updated>2022-11-22T012:00:00Z</updated>
- 
- <entry>
- <author>
- <name>A22JavierLM</name>
- </author>
- <title>The Gorse</title>
- <subtitle>The freshest pictures of the renown spiky bush</subtitle>
- <updated>2022-11-22T12:00:00Z</updated>
- <published>2022-11-22T12:00:00Z</published>
- <link>https://xabi-5.github.io/plantProject/gorse.html</link>
- <summary>The freshest pictures of the renown spiky bush</summary>
- </entry>
- 
+    <title>PlantProject</title>
+    <updated>2022-11-22T012:00:00Z</updated>
+
+    <entry>
+        <author>
+            <name>A22JavierLM</name>
+        </author>
+        <title>The Gorse</title>
+        <subtitle>The freshest pictures of the renown spiky bush</subtitle>
+        <updated>2022-11-22T12:00:00Z</updated>
+        <published>2022-11-22T12:00:00Z</published>
+        <link>https://xabi-5.github.io/plantProject/gorse.html</link>
+        <summary>The freshest pictures of the renown spiky bush</summary>
+    </entry>
+
 </feed>
